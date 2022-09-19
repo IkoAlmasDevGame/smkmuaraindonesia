@@ -70,8 +70,8 @@
                                     <button onclick="myFunctions2()" class="dropbtns btn btn-primary">Koperasi SMK MI</button>
                                     <div class="dropdowns-content" id="myDropdown">
                                         <a href="dashboard-koperasi.php" class="active"><span class="glyphicon glyphicon-home">  Dashboard Koperasi SMK</span></a>
-                                        <a href="#"><span class="glyphicon glyphicon-briefcase">  Data Barang</span></a>
-                                        <a href="#"><span class="glyphicon glyphicon-briefcase">  Entry Penjualan</span></a>
+                                        <a href="dagangan.php"><span class="glyphicon glyphicon-briefcase">  Data Barang</span></a>
+                                        <a href="dagangan_laku.php"><span class="glyphicon glyphicon-briefcase">  Entry Penjualan</span></a>
                                 </div>			
 		                    </ul>
                         </div>

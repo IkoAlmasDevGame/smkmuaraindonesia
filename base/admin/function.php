@@ -515,4 +515,16 @@ function pekerjaanIbu($ibu_bekerja_sebagai){
         echo "Pramusaji";
     }
 }
+
+function jenis($jenis){
+    if($jenis == 1){
+        echo "makanan";
+    }else if($jenis == 2){
+        echo "minuman";
+    }else if($jenis == 3){
+        echo "alat tulis";
+    }else if($jenis == 4){
+        echo "buku";
+    }
+}
 ?>
